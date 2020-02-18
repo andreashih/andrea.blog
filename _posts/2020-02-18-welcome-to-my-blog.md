@@ -4,7 +4,7 @@ title: "Welcome to My Blog!"
 author: "Andrea Shih"
 categories: journal
 tags: [blog]
-image: mountains.jpg
+image: journals.jpg
 ---
 
 Hello! Welcome to my blog.

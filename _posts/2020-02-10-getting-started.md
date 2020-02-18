@@ -3,7 +3,7 @@ layout: post
 title: "Getting Started"
 author: "Andrea Shih"
 categories: journal
-tags: [documentation,sample]
+tags: [blog]
 image: forest.jpg
 ---
 

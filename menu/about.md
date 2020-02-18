@@ -11,7 +11,7 @@ Hi there! My name is Andrea Shih. I received a BA in literature from National Su
 
 ### 中文
 
-中文可以顯示嗎？
+中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？中文可以顯示嗎？測試測試測試測試測試測試測試測試。
 
 ### Questions?
 
