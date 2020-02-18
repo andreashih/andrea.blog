@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Welcome to Lagrange!
+title: Welcome to my blog!
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Here is where the story begins.
 
-### Getting Started
+### Biography
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+Hi there! My name is Andrea Shih. I received a BA in literature from National Sun Yat-sen University. At the moment, I am pursuing an MA degree in linguistics at National Taiwan University. My research interests lie in the field of computational linguistics. 
 
-### Example Content
+### 中文
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+中文可以顯示嗎？
 
 ### Questions?
 
