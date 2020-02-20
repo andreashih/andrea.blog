@@ -5,14 +5,20 @@ title: Welcome to my blog!
 
 ***The Andrea Journal*** was created on 2020/02/20. I am going to jot down my out-of-the-blue thoughts here. Also, there will be reading notes and reflections in this blog.
 
+&nbsp;
+
 ## About me
 ---
 Hi, my name is Andrea Shih. I received a B.A. in Literature from National Sun Yat-sen University. At this moment, I am pursuing an M.A. degree in Linguistics at National Taiwan University. My research interests lie in the field of Computational Linguistics. 
+
+&nbsp;
 
 ## About this blog 
 ---
 ### License
 The theme of this blog is distributed under the [**MIT License**](http://choosealicense.com/licenses/mit/), and so do my [**portfolio page**](https://andreashih.github.io/) and [**CV page**](https://andreashih.github.io/cv/).
+
+&nbsp;
 
 ## Credits
 ---
@@ -24,6 +30,8 @@ The template of my portfolio page is forked from [**academicpages**](https://git
 
 ### CV Page
 I built my CV page by using [**modern-resume-theme**](https://github.com/sproogen/modern-resume-theme), a modern static resume template.
+
+&nbsp;
 
 ## Special Thanks
 ---
