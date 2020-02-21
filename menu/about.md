@@ -16,7 +16,7 @@ Hi, my name is Andrea Shih. I received a B.A. in Literature from National Sun Ya
 ## About this blog 
 ---
 ### License
-The theme of this blog is distributed under the [**MIT License**](http://choosealicense.com/licenses/mit/), and so do my [**portfolio page**](https://andreashih.github.io/) and [**CV page**](https://andreashih.github.io/cv/).
+The theme of this blog and my [**homepage**](https://andreashih.github.io/) are distributed under the [**MIT License**](http://choosealicense.com/licenses/mit/).
 
 ### Pictures
 The pictures in this blog are downloaded from [**Unsplash**](https://unsplash.com/).
