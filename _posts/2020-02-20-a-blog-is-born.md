@@ -55,11 +55,11 @@ Windows 電腦特別會有 Timezone 的問題，[**Jekyll on Windows**](https://
 
 接著要更改 4 個設定。
 
-(1) 將左側的 **Branch** 設為 **Master**。如果下拉式選單中沒有這個選項，在搜尋欄位中打 "Master" 就可以搜尋到了。
+(1) 將左方的 **Branch** 設為 **Master**。如果下拉式選單中沒有這個選項，在搜尋欄位中打 "Master" 就可以搜尋到了。
 
-(2) 在 **Settings** 中點選左側的 **Branches**，將 **Default branch** 設定為 **Master**。請記得點選 **Update** 以完成變更。
+(2) 在右方 **Settings** 中點選左側的 **Branches**，將 **Default branch** 設定為 **Master**。請記得點選 **Update** 以完成變更。
 
-(3) 點選右側的 **Settings**，將 **Repository name** 設定為**你的帳號.github.io**。也可以設定別的名字，但最後 GitHub Page 的網址會長得不一樣，可以改改看。
+(3) 在 **Settings** 中點選左方的 **Options**，將 **Repository name** 設定為**你的帳號.github.io**。也可以設定別的名字，但最後 GitHub Page 的網址會長得不一樣，可以改改看。
 
 (4) 滑到頁面下方，看到 **GitHub Pages** 的欄位後停下來，把 **Source** 改成 **master branch**。上方的網址就是新建立的部落格的網址，如果點進去顯示 404，可能要稍後片刻（筆者曾經等過 20 分鐘）。
 
