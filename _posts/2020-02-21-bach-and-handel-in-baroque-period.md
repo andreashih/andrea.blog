@@ -6,7 +6,7 @@ categories: journal
 tags: [blog, music]
 image: violin.jpg
 ---
-(This is the comparison essay that I wrote in English writing class II.)
+(This is the comparison essay that I wrote in English Writing II.)
 
 Although the word *Baroque* may sound unfamiliar to people, [**Baroque music**](https://www.baroque.org/baroque/whatis) exists in our daily life from commercials to movies. The elaborate Baroque music
 features the use of [**counterpoint**](https://www.britannica.com/art/counterpoint-music), which refers to the musical technique of playing two
