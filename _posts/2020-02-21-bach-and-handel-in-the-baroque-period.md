@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bach and Handel in Baroque Period"
+title: "Bach and Handel in the Baroque Period"
 author: "Andrea Shih"
 categories: journal
 tags: [blog, music]
