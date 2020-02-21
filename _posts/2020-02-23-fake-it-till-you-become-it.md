@@ -7,6 +7,6 @@ tags: [blog]
 image: grass.jpg
 ---
 
-123
+This is an example future post.
 &nbsp;
 
