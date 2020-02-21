@@ -7,7 +7,7 @@ title: Welcome to my blog!
 
 &nbsp;
 
-## About me
+## About Me
 ---
 Hi, my name is Andrea Shih. I received a B.A. in Literature from National Sun Yat-sen University. At this moment, I am pursuing an M.A. degree in Linguistics at National Taiwan University. My research interests lie in the field of Computational Linguistics. 
 
