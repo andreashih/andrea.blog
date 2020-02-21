@@ -80,7 +80,7 @@ Windows 電腦特別會有 Timezone 的問題，[**Jekyll on Windows**](https://
 
 接著依照 repo 中 `README.md` 的說明修改各檔案成自己的內容。筆者使用的編輯器是 [**Visual Studio Code**](https://code.visualstudio.com/)。在編輯過程中，與其直接刪除不需要執行的 lines ，在它們前面加上 `#` 對我來說是比較保險的做法。
 
-修改完並儲存後，重新整理 `localhost:4000`，就可以看到更新的內容。根據筆者經驗，`_config` 需花費較長時間更新。
+修改完並儲存後，重新整理 `localhost:4000`，就可以看到更新的內容。根據筆者經驗，`_config.yml` 需花費較長時間更新。
 
 回到 **GitHub Desktop**，輸入 **Summary** 後，點選左下角 **Commit to master**，再點選右上角的 **Fetch origin**，就可以將更新的檔案上傳到 GitHub 中的 repo，以更新正式的網頁。
 
