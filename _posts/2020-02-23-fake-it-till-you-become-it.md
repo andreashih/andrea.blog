@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fake It 'Til You Become It"
+title: "Fake It 'Til You Make It"
 author: "Andrea Shih"
 categories: journal
 tags: [blog]
