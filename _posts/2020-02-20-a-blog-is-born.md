@@ -88,7 +88,7 @@ Windows 電腦特別會有 Timezone 的問題，[**Jekyll on Windows**](https://
 
 ## And That's It!
 ---
-接下來就可以開開心心地撰寫內文了！
+接下來就可以開開心心地撰寫內文了！上述過程讓我感受最深的是，你必須試了才知道結果會如何。不知道怎麼做就試一下，再依結果去調整。不斷地找到問題，再不斷地解決問題，我認為這就是學習新事物困難但有趣的地方。
 
 [**Markdown Here Cheetsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
