@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python Notes"
+title: "[筆記] Python Notes"
 author: "Andrea Shih"
 categories: journal
 tags: [notes]

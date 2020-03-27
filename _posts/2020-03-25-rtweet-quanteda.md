@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用 `rtweet` 和 `quanteda` 整理 twitter 上的武漢肺炎日文資料"
+title: "[練習] 用 `rtweet` 和 `quanteda` 整理 twitter 上的武漢肺炎日文資料"
 author: "Andrea Shih"
 categories: journal
 tags: [practice, tutorial]

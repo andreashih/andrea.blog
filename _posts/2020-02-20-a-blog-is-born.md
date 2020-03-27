@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "A Blog is Born: 一個部落格的誕生"
+title: "[筆記] A Blog is Born: 一個部落格的誕生"
 author: "Andrea Shih"
 categories: journal
-tags: [blog, tutorial]
+tags: [notes]
 image: code3.jpg
 ---
 本文紀錄我在 GitHub Pages 上利用 Jeckyll 架設部落格的歷程。
