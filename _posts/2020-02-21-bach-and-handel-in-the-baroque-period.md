@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "[雜談] Bach and Handel in the Baroque Period"
+title: "雜談 | Bach and Handel in the Baroque Period"
 author: "Andrea Shih"
 categories: journal
 tags: [blog, music]
 image: violin.jpg
 ---
-(This is the comparison essay that I wrote in English Writing II.)
 
 Although the word *Baroque* may sound unfamiliar to people, [**Baroque music**](https://www.baroque.org/baroque/whatis) exists in our daily life from commercials to movies. The elaborate Baroque music
 features the use of [**counterpoint**](https://www.britannica.com/art/counterpoint-music), which refers to the musical technique of playing two
@@ -15,6 +14,7 @@ the Baroque period, **Bach** and **Handel** were the most influential ones. Thei
 contributed to the establishment of Baroque music, and both of them were praised as
 the leading composers of the Baroque era. Although they shared similarities in music
 achievement, they had different experiences throughout their journeys of music.
+
 
 Families of Bach and Handel held different opinions about music. The two
 prominent musicians showed their gift in music at a young age. As for **Bach**, being
