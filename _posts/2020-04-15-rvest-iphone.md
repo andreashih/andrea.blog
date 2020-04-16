@@ -108,7 +108,7 @@ df
 ```r
 library(ggplot2)
 
-ggplot(df, aes(x = reorder(Model, -n), y = n), fill = dose) +
+ggplot(df, aes(x = reorder(Model, -n), y = n)) +
   geom_bar(stat = "identity",
            fill = "#fcba03") +
            xlab("Model") +
