@@ -10,6 +10,8 @@ image: fuji.jpg
 
 在看 [quanteda tutorials](https://tutorials.quanteda.io/language-specific/japanese/) 的時候發現了 `quanteda` 內建的日文斷詞功能，因此想用 `rtweet` 爬爬看 twitter 上有關 "コロナウイルス" 的資料，再用 `quanteda` 處理。
 
+&nbsp;
+
 ### 1. 使用 rtweet 前先[處理 rate limit](https://github.com/ropensci/rtweet/issues/266)
 
 ```r

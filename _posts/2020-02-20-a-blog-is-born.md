@@ -4,7 +4,7 @@ title: "筆記 | A Blog is Born: 一個部落格的誕生"
 author: "Andrea Shih"
 categories: journal
 tags: [notes, practice]
-image: code3.jpg
+image: blog.jpg
 ---
 本文紀錄我在 GitHub Pages 上利用 Jeckyll 架設部落格的歷程。
 
@@ -98,7 +98,7 @@ Windows 電腦特別會有 Timezone 的問題，[**Jekyll on Windows**](https://
 ## Personalize Your Blog
 ---
 
-接著依照 repo 中 `README.md` 的說明修改各檔案成自己的內容。我使用的編輯器是 [**Visual Studio Code**](https://code.visualstudio.com/)。在編輯過程中，與其直接刪除不需要執行的 lines ，在它們前面加上 `#` 對我來說是比較保險的做法。
+接著依照 repo 中 `README.md` 的說明修改各檔案成自己的內容。我使用的編輯器是 [**Visual Studio Code**](https://code.visualstudio.com/)。介面右方可以開啟 markdown preview，覺得很方便！在編輯過程中，與其直接刪除不需要執行的 lines ，在它們前面加上 `#` 對我來說是比較保險的做法。
 
 修改完並儲存後，重新整理 `localhost:4000`，就可以看到更新的內容。根據我的經驗，`_config.yml` 需花費較長時間更新。
 
@@ -108,10 +108,6 @@ Windows 電腦特別會有 Timezone 的問題，[**Jekyll on Windows**](https://
 
 ## And That's It!
 ---
-接下來就可以開開心心地撰寫內文了！如果要預覽 blog，可以依照 `4. Local Installation` 的方法執行，但不需要再 run 一次 `bundle install`。有關 markdown 編輯，以下提供兩個實用的資料來源：
-
-[**Markdown Here Cheetsheet**](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
-
-[**Minimalist Online Markdown Editor**](http://markdown.pioul.fr/)
+接下來就可以開開心心地用 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) 撰寫內文了！如果要預覽 blog，可以依照 `4. Local Installation` 的方法執行，但不需要再 run 一次 `bundle install`。
 
 上述過程讓我感受最深的是，你必須試了才知道結果會如何。不知道怎麼做就試一下，再依結果去調整。不斷地找到問題，再不斷地解決問題，我認為這就是學習新事物困難但有趣的地方。
