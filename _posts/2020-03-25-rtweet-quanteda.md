@@ -4,7 +4,7 @@ title: "練習 | 用 `rtweet` 和 `quanteda` 整理 twitter 上的武漢肺炎�
 author: "Andrea Shih"
 categories: journal
 tags: [practice]
-image: fuji.jpg
+image: pill.jpg
 ---
 
 
