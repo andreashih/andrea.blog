@@ -12,7 +12,7 @@ image: pill.jpg
 
 &nbsp;
 
-### 1. 使用 rtweet 前先[處理 rate limit](https://github.com/ropensci/rtweet/issues/266)
+### 1. 使用 `rtweet` 前先[處理 rate limit](https://github.com/ropensci/rtweet/issues/266)
 
 ```r
 library(rtweet)
