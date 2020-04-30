@@ -6,7 +6,7 @@ categories: journal
 tags: [notes, practice]
 image: blog.jpg
 ---
-本文紀錄我在 GitHub Pages 上利用 Jeckyll 架設部落格的歷程。
+本文紀錄我在 GitHub Pages 上利用 Jekyll 架設部落格的歷程。
 
 &nbsp;
 
