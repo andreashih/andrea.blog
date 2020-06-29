@@ -9,7 +9,10 @@ image: books3.jpg
 
 這學期 (108-2) 修大學部的 python 課程，在期末用 [`python-docx`](https://python-docx.readthedocs.io/en/latest/) 搭配 python 內建函式庫做了一個[迷你專案](https://github.com/andreashih/docx-search-manipulation)。
 
-&nbsp;
+最初的想法如下圖：
+
+![](https://andreashih.github.io/img/rmd_posts/python_docx/python_docx.png)
+
 
 ### Code
 ---
