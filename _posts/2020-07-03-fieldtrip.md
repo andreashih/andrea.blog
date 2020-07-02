@@ -4,7 +4,7 @@ title: "研究 | 霧台魯凱語田野調查"
 author: "Andrea Shih"
 categories: journal
 tags: [research]
-image: budai.jpg
+image: budai.JPG
 ---
 
 從霧台回來已經一個多月了。匆匆忙忙結束期末，今天終於得空將零碎的筆記整理成一篇文章。
