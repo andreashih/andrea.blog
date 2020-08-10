@@ -39,7 +39,7 @@ The first thing I did is to replace the insta icon with [a crossword game](https
 
 ---
 
-The three questions I asked myself led to the same conclusion: I was afraid of failures. It seemed ridiculous, but it was real. I was afraid of not doing well on studies or projects, so I hid in a virtual world where anxiety was covered by eye-catching pictures and videos (although they did bring much more anxiety that I was not aware of). I was afraid of not performing well, so I chose not to begin a book or a project, so as to avoid failure. Things would never go wrong if I didn't carry them out. However, I was not satisfied with it, so the loop kept going. 
+The three questions I asked myself led to the same conclusion: I was afraid of failures. It seemed ridiculous, but it was real. I was afraid of not doing well on studies or projects, so I hid in a virtual world where anxiety was covered by eye-catching pictures and videos (although they did bring much more anxiety that I was not aware of). I was afraid of not performing well, so I chose not to begin a book or a project, so as to avoid failure. Things would never go wrong if I didn't carry them out. Gliding the smooth turf was way more soothing than thinking or solving problems. I could have kept this habit and lived happily (but boringly). However, I was not satisfied with it, so the loop kept going. 
 
 &nbsp;
 
