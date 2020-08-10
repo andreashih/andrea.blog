@@ -23,7 +23,7 @@ It was an ordinary night. Like any other typical night after I came back to my d
 
 ---
 
-Have no idea when it started, but it was so true that I couldn't hide. The first thing I did in the morning was to wake up my phone and tapped on insta for no reason. The last thing I did at night was to scroll insta to my heart's content, there's no reason either. Was I happier with the accompany of instagram? The answer was definitely no. But why was I so stuck on this cute evil platform? I found no reason. Therefore, I started my practice of quitting instagram to take back my life.
+Have no idea when it started, but it was so true that I couldn't hide. The first thing I did in the morning was to wake up my phone and tapped on insta for no reason. The last thing I did at night was to scroll insta to my heart's content, there's no reason either. Sometimes when I felt like posting a story, I spent time coming up with the best filter, gifs, and caption. After I posted, I worried about others' opinions toward my story. I even felt lazy to reply to direct messages. So why should I post? A picture is still a picture in my camera roll. It doesn't matter if I posted them or not. Was I happier with the accompany of instagram? The answer was definitely no. But why was I so stuck on this cute evil platform? I found no reason. Therefore, the practice of quitting instagram has started to take back my life.
 
 &nbsp;
 
