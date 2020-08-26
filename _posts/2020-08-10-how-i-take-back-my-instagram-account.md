@@ -15,7 +15,7 @@ I am writing this post not because I was hacked or accidentally forgot the passw
 
 ---
 
-It was an ordinary night. Like any other typical night after I came back to my dorm. Even though I was exhausted and really needed a cold shower, I'd lie on my mattress, hold my phone in hand, and swipe instagram page for thirty minutes or so. After checking friends' stories and posts, I clicked on the magnifying glass icon to find something interesting. All of a sudden, it struck me that I was not happy with it anymore. All I got from scrolling was emptiness. I got jealous seeing people enjoying vacation. I even criticised myself seeing pictures of beautiful girls. The worst thing was that I had wasted a bunch of time that I could have read a book, worked on a project, or simply got a good night's sleep.
+It was an ordinary night. Like any other typical night after I came back to my dorm. Even though I was exhausted and really needed a cold shower, I'd lie on my mattress, hold my phone in hand, and swipe instagram page for thirty minutes or so. After checking friends' stories and posts, I clicked on the magnifying glass icon to find something interesting. All of a sudden, it struck me that I was not happy with it anymore. All I got from scrolling was emptiness. I was jealous of people enjoying vacations. I even criticised myself seeing pictures of beautiful girls. The worst thing was that I had wasted a bunch of time that I could have read a book, worked on a project, or simply got a good night's sleep.
 
 &nbsp;
 
@@ -39,7 +39,7 @@ The first thing I did was to replace the insta icon with [a crossword game](http
 
 ---
 
-The three questions I asked myself led to the same conclusion: I was afraid of failures. It seemed ridiculous, but it was real. I was afraid of not doing well on studies or projects, so I hid in a virtual world where anxiety was covered by eye-catching pictures and videos (although they did bring much more anxiety that I was not aware of). Gliding the smooth turf was way more soothing than thinking or solving problems. I could had kept this habit and lived happily (but boringly). However, I was not satisfied with it, so the loop kept going. 
+The three questions I asked myself led to the same conclusion: I was afraid of failures. It seemed ridiculous, but it was real. I was afraid of not doing well on studies or projects, so I hid in a virtual world where anxiety was covered by eye-catching pictures and videos (although they did bring much more anxiety that I was not aware of). Gliding the smooth turf was way more soothing than thinking or solving problems. I could have kept this habit and lived happily (but boringly). However, I was not satisfied with it, so the loop kept going. 
 
 &nbsp;
 
