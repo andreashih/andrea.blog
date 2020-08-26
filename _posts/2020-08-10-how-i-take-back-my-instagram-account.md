@@ -15,7 +15,7 @@ I am writing this post not because I was hacked or accidentally forgot the passw
 
 ---
 
-It was an ordinary night. Like any other typical night after I came back to my dorm. Even though I was exhausted and really needed a cold shower, I'd lie on my mattress, hold my phone in hand, and swipe instagram page for thirty minutes or so. Linda went to the beach. That swimsuit looked good on her. Patrick's got a promotion. See that smiley face! After checking friends' stories and posts, I clicked on the magnifying glass icon to find something interesting. All of a sudden, it struck me that I was not happy with it anymore. All I got from scrolling was emptiness. I even got jealous when seeing people enjoying vaca. The worst thing was that I had wasted a bunch of time that I could have read a book, worked on a project, or simply got a good night's sleep. I put down my phone, reflecting my use of instagram, and found something really horrible.
+It was an ordinary night. Like any other typical night after I came back to my dorm. Even though I was exhausted and really needed a cold shower, I'd lie on my mattress, hold my phone in hand, and swipe instagram page for thirty minutes or so. After checking friends' stories and posts, I clicked on the magnifying glass icon to find something interesting. All of a sudden, it struck me that I was not happy with it anymore. All I got from scrolling was emptiness. I got jealous seeing people enjoying vacation. I even criticised myself seeing pictures of beautiful girls. The worst thing was that I had wasted a bunch of time that I could have read a book, worked on a project, or simply got a good night's sleep.
 
 &nbsp;
 
@@ -23,7 +23,7 @@ It was an ordinary night. Like any other typical night after I came back to my d
 
 ---
 
-Had no idea when it started, but it was so true that I couldn't hide. The first thing I did in the morning was to wake up my phone and tapped on insta for no reason. The last thing I did at night was to scroll insta to my heart's content, there's no reason either. Sometimes when I felt like posting a story, I spent time coming up with the best filter, gifs, and caption. After I posted, I worried about others' opinions toward my story. I even felt lazy to reply to direct messages. So why should I post? A picture is still a picture in my camera roll. It doesn't matter if I posted them or not. Was I happier with the accompany of instagram? The answer was definitely no. But why was I so stuck on this cute evil platform? I found no reason. Therefore, the practice of quitting instagram has started to take back my life.
+The first thing I did in the morning was to wake up my phone and tapped on insta for no reason. The last thing I did at night was to scroll insta to my heart's content, there's no reason either. Sometimes when I felt like posting a story, I spent time coming up with the best filter, gifs, and caption. After I posted, I worried about others' opinions toward my story. Was I happier with the accompany of instagram? The answer was definitely no. But why was I so stuck on this cute evil platform? I found no reason. Therefore, the practice of quitting instagram has started to take back my life.
 
 &nbsp;
 
@@ -39,7 +39,7 @@ The first thing I did was to replace the insta icon with [a crossword game](http
 
 ---
 
-The three questions I asked myself led to the same conclusion: I was afraid of failures. It seemed ridiculous, but it was real. I was afraid of not doing well on studies or projects, so I hid in a virtual world where anxiety was covered by eye-catching pictures and videos (although they did bring much more anxiety that I was not aware of). I was afraid of not performing well, so I chose not to begin a book or a project, so as to avoid failure. Things would never go wrong if I didn't carry them out. Gliding the smooth turf was way more soothing than thinking or solving problems. I could have kept this habit and lived happily (but boringly). However, I was not satisfied with it, so the loop kept going. 
+The three questions I asked myself led to the same conclusion: I was afraid of failures. It seemed ridiculous, but it was real. I was afraid of not doing well on studies or projects, so I hid in a virtual world where anxiety was covered by eye-catching pictures and videos (although they did bring much more anxiety that I was not aware of). Gliding the smooth turf was way more soothing than thinking or solving problems. I could had kept this habit and lived happily (but boringly). However, I was not satisfied with it, so the loop kept going. 
 
 &nbsp;
 
@@ -47,4 +47,4 @@ The three questions I asked myself led to the same conclusion: I was afraid of f
 
 ---
 
-After talking to myself for one or two weeks, I finally face my weaknesses regarding social media addiction. At present, instagram seldom pops up in my head. We have reached a peaceful balance. It feels really powerful and satisfying when things are getting in control. I no longer feel itchy when seeing those bright pink circles on the homepage. I can enjoy me-time without pictures and memes sparkling like a haunted nightmare. I can do whatever I want without insta, and it does no harm to my life (actually it has been better without its harassment). What happened to me is not a pure miracle. All these struggles have put me back in the driving seat of my body, mind, and spirit.
+After talking to myself for one or two weeks, I finally face my weaknesses regarding social media addiction. At present, instagram seldom pops up in my head. We have reached a peaceful balance. It feels really powerful and satisfying when things are getting in control. I no longer feel itchy when seeing those bright pink circles on the homepage. I can enjoy me-time without pictures and memes sparkling like a haunted nightmare. I can do whatever I want without insta, and it does no harm to my life (actually it has been better without its harassment). I don't agree that hiding from social media is the most ideal choice. After all, social media provides the most instant way to build connections with friends and families. However, I learned that it is important to give myself a break. All these struggles of dealing with insta addiction have put me back in the driving seat of my body, mind, and spirit.
