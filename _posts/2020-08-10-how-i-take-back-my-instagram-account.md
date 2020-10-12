@@ -48,3 +48,7 @@ The three questions I asked myself led to the same conclusion: I was afraid of f
 ---
 
 After talking to myself for one or two weeks, I finally face my weaknesses regarding social media addiction. At present, instagram seldom pops up in my head. We have reached a peaceful balance. It feels really powerful and satisfying when things are getting in control. I no longer feel itchy when seeing those bright pink circles on the homepage. I can enjoy me-time without pictures and memes sparkling like a haunted nightmare. I can do whatever I want without insta, and it does no harm to my life (actually it has been better without its harassment). I don't agree that hiding from social media is the most ideal choice. After all, social media provides the most instant way to build connections with friends and families. However, I learned that it is important to give myself a break. All these struggles of dealing with insta addiction have put me back in the driving seat of my body, mind, and spirit.
+
+&nbsp;
+
+<span>Photo by <a href="https://unsplash.com/@jakobowens1?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jakob Owens</a> on <a href="https://unsplash.com/s/photos/instagram?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

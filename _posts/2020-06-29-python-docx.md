@@ -126,3 +126,7 @@ while mode not in ['move','copy', 'delete']:
 [How to use regular expressions with python docx?](https://stackoverflow.com/questions/60682266/how-to-use-regular-expressions-with-python-docx)
 
 [How to Create, Move, and Delete Files in Python](https://stackabuse.com/how-to-create-move-and-delete-files-in-python/)
+
+&nbsp;
+
+<span>Photo by <a href="https://unsplash.com/@inakihxz?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Iñaki del Olmo</a> on <a href="https://unsplash.com/s/photos/library?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

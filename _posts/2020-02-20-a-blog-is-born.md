@@ -111,3 +111,7 @@ Windows 電腦特別會有 Timezone 的問題，[**Jekyll on Windows**](https://
 接下來就可以開開心心地用 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet) 撰寫內文了！如果要預覽 blog，可以依照 `4. Local Installation` 的方法執行，但不需要再 run 一次 `bundle install`。
 
 上述過程讓我感受最深的是，你必須試了才知道結果會如何。不知道怎麼做就試一下，再依結果去調整。不斷地找到問題，再不斷地解決問題，我認為這就是學習新事物困難但有趣的地方。
+
+&nbsp;
+
+<span>Photo by <a href="https://unsplash.com/@jessbaileydesigns?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jess Bailey</a> on <a href="https://unsplash.com/s/photos/blog?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

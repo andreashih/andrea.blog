@@ -137,3 +137,7 @@ Pro 和 i11 Pro Max，以及預計今年四月中才會發表的 i9
 (SE2)。原本預期會看到許多 i9 (SE2) 的討論，但 Mobile 01
 上似乎沒有此現象。i6S Plus 和 iPhone SE
 雖然是較早期機種，文章數卻比新機少很多，之後預計會爬內文進一步分析。
+
+&nbsp;
+
+<span>Photo by <a href="https://unsplash.com/@arnelhasanovic?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Arnel Hasanovic</a> on <a href="https://unsplash.com/s/photos/iphone?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>

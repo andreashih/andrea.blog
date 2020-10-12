@@ -18,3 +18,7 @@ Although both of them were outstanding figures of Baroque music, Bach and Handel
 
 When listening to [the **organ music** of Bach](https://www.youtube.com/watch?v=AgDMxs4aHZU), audiences can receive a sense of solemnity. When appreciating [**suites** of Handel](https://www.youtube.com/watch?v=ji6Xx24Oc4s), audiences will find the music courtly and gorgeous. Bach, though possessed overall musical technique, couldn’t achieve the fame that Handel owned. Furthermore, Handel lived a more affluent life than Bach, and he was one of a few long-lived musicians. The two significant figures wrote a splendid page of Baroque music jointly. Their compositions also cast a long shadow on the history of classical music. People today can indulge themselves in the Baroque atmosphere by admiring their works. Nowadays, the elaboration of their music is still widely researched, and they will be remembered as the most influential composers in
 the Baroque period.
+
+&nbsp;
+
+<span>Photo by <a href="https://unsplash.com/@notcalin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Calin Draganescu</a> on <a href="https://unsplash.com/s/photos/violin?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
