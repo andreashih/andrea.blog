@@ -77,7 +77,7 @@ image: stat.jpg
 
 ### 1. Load data
 ```r
-setwd("C:/Users/user/Desktop") # set working environment
+setwd("C:/Users/user/Desktop") # set working directory
 
 library(readr)
 sleep_grades <- read_csv("C:/Users/user/Desktop/sleep_grades.csv")
