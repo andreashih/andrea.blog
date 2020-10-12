@@ -3,7 +3,7 @@ layout: post
 title: "筆記 | A Blog is Born: 一個部落格的誕生"
 author: "Andrea Shih"
 categories: journal
-tags: [notes, practice]
+tags: [notes]
 image: blog.jpg
 ---
 本文紀錄我在 GitHub Pages 上利用 Jekyll 架設部落格的歷程。
