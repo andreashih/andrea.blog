@@ -11,67 +11,19 @@ image: stat.jpg
 
 以下虛構資料紀錄十位學生期末考前一晚的睡眠小時數和期末考分數：
 
-<table>
-<thead>
-<tr class="header">
-<th>id</th>
-<th>time</th>
-<th>grades</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>7</td>
-<td>80</td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>8</td>
-<td>75</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>8.5</td>
-<td>45</td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>4</td>
-<td>50</td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>3</td>
-<td>60</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>3.5</td>
-<td>70</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>10</td>
-<td>65</td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td>2</td>
-<td>55</td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>9.5</td>
-<td>25</td>
-</tr>
-<tr class="even">
-<td>10</td>
-<td>7.5</td>
-<td>85</td>
-</tr>
-</tbody>
-</table>
+| id | time | grades |
+|----|------|--------|
+| 1  | 7    | 80     |
+| 2  | 8    | 75     |
+| 3  | 8.5  | 45     |
+| 4  | 4    | 50     |
+| 5  | 3    | 60     |
+| 6  | 3.5  | 70     |
+| 7  | 10   | 65     |
+| 8  | 2    | 55     |
+| 9  | 9.5  | 25     |
+| 10 | 7.5  | 85     |
+
 
 &nbsp;
 
