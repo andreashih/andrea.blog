@@ -37,7 +37,7 @@ sleep_grades <- read_csv("C:/Users/user/Desktop/sleep_grades.csv")
 time <- sleep_grades$time
 grades <- sleep_grades$grades 
 ```
-若資料為 `list`，可先轉換成一個 `numeric vector`。以下為範例：
+若資料為 `list`，可先轉換成一個 `numeric vector`。
 ```r
 your_data <-  list(1, 2, 3, 4, 5)
 your_data_new <- as.numeric(unlist(your_data))
