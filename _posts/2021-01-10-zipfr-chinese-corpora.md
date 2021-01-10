@@ -305,7 +305,7 @@ plot(dcard.vgc, add.m=1, main="Dcard",
 corpus 的 V1 曲線上升後逐漸平緩，然而 PTT 與 Dcard 的 V1
 曲線呈現持續上升的趨勢，意指隨著 sample size 增加，*hapax legomena*
 也會不斷增加。這可能是中文斷詞錯誤所造成 (Hsieh
-2014)。為了推得母體的真實情況，接下來將使用 Large-Number- of-Rare-Events
+2014)。為了推得母體的真實情況，接下來將使用 Large-Number-of-Rare-Events
 (LNRE) models (Baayen 2002)。
 
 #### 2.4 Fitting the LNRE Model
