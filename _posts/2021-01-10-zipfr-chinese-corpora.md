@@ -383,9 +383,9 @@ legend("topleft", legend = c("observed", "fZM model"),
 
 #### 3.1 Out-Of-Vocabulary (OOV) types
 
-我們可以藉由 Out-Of-Vocabulary (OOV) types 的比例來了解分析兩個 corpus
+我們可以藉由 Out-Of-Vocabulary (OOV) types 的比例來了解兩個 corpus
 的 lexical
-coverage，也就是可被辨認的單詞所佔的比例。基本上，一個實用的語言資源中，OOV
+coverage。基本上，一個實用的語言資源中，OOV
 所佔的比例應保持在一定標準之下。
 
 我們先採前十萬個 lemma：
@@ -406,8 +406,7 @@ ptt100k.spc <- tfl2spc(ptt100k.tfl)
 dcard100k.spc <- tfl2spc(dcard100k.tfl)
 ```
 首先，我們要計算 lexical of seen
-types。也就是說，我們想要知道語料中至少出現過**兩次**的 type
-總共有幾個：
+types。在這裡，我們將只出現過**一次**的 type 都算成 OOV。也就是說，我們想要知道語料中至少出現過**兩次**的 type 總共有幾個：
 ```r
 asbc_Vseen <- V(asbc100k.spc) - Vm(asbc100k.spc, 1)
 Brown_Vseen <- V(Brown100k.spc) - Vm(Brown100k.spc, 1)
