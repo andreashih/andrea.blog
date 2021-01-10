@@ -453,7 +453,7 @@ Dcard 來得穩定且比例也較低。
 richness 和 lexical coverage。目前的發現是：
 
 1.  不同於 ASBC 和 Brown Corpus 最後達成平緩的趨勢，PTT 與 Dcard 的
-    `VGC` V1 曲線都隨著 sample size 增加持續上升。
+    `VGC` V1 曲線都隨著 sample size 的增加持續上升。
 
 2.  從 expected OOV ratio 來看，PTT 與 Dcard 語料的 OOV
     除比例較高外，也隨著 corpus size 的增加而持續上升，並不如 ASBC 與
