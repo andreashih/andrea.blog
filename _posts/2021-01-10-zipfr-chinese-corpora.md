@@ -12,7 +12,7 @@ image: cards2.jpg
 2002)。這篇文章將參考老師的研究 (Hsieh 2014)，並依據 [The zipfR package
 for lexical statistics: A tutorial
 introduction](https://rdrr.io/cran/zipfR/f/inst/doc/zipfr-tutorial.pdf)
-(Baroni and Evert 2014) 所提供的方法，以 PTT 八卦板與 Dcard
+(Baroni and Evert 2014) 所提供的方法，以 PTT 與 Dcard
 的語料進行中文斷詞問題的分析。
 
 &nbsp;
