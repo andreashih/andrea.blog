@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研究 | 透過 `zipfR` 探討 PTT 八卦板與 Dcard 語料斷詞問題"
+title: "研究 | 透過 `zipfR` 探討 PTT 與 Dcard 語料斷詞問題"
 author: "Andrea Shih"
 categories: journal
 tags: [research]
