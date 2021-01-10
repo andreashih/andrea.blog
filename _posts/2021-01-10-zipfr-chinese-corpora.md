@@ -310,7 +310,7 @@ corpus 的 V1 曲線上升後逐漸平緩，然而 PTT 與 Dcard 的 V1
 
 #### 2.4 Fitting the LNRE Model
 
-`zipfR` 套件中提供了三種 LNRE models，分別是 Generalized In- verse Gauss
+`zipfR` 套件中提供了三種 LNRE models，分別是 Generalized Inverse Gauss
 Poisson (`lnre.gigp`; Baayen, 2001, ch. 4)、Zipf-Mandelbrot (`lnre.zm`;
 Evert, 2004)，和 finite Zipf-Mandelbrot (`lnre.fzm`; Evert,
 2004)，我們首先採用 `fzm`。
