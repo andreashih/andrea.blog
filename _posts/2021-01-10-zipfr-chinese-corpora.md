@@ -468,21 +468,13 @@ Web-as-Corpus，其前處理通常採用機器自動斷詞，龐大的 OOV
 
 ### 5. References
 
-Baayen, R. H. (2002). Word frequency distributions (Vol. 18). Springer
-Science & Business Media.
+Baayen, R. H. (2002). *Word frequency distributions* (Vol. 18). Springer Science & Business Media.
 
-Evert S, Baroni M (2007). “zipfR: Word Frequency Distributions in R.” In
-Proceedings of the 45th Annual Meeting of the Association for
-Computational Linguistics, Posters and Demonstrations Sessions, 29–32.
-(R package version 0.6-70 of 2020-10-10).
+Evert S, Baroni M (2007). “*zipfR*: Word Frequency Distributions in R.” In *Proceedings of the 45th Annual Meeting of the Association for Computational Linguistics, Posters and Demonstrations Sessions*, 29–32. (R package version 0.6-70 of 2020-10-10).
 
-Kilgarriff, A., & Grefenstette, G. (2003). Introduction to the special
-issue on the web as corpus. Computational linguistics, 29(3), 333-347.
+Kilgarriff, A., & Grefenstette, G. (2003). Introduction to the special issue on the web as corpus. *Computational linguistics*, 29(3), 333-347.
 
-Hsieh, S.-K. (2014, may). Why Chinese Web-as-Corpus is Wacky? Or: How
-Big Data is Killing Chinese Corpus Linguistics. Paper presented at the
-Proceedings of the Ninth International Conference on Language Resources
-and Evaluation (LREC?14), Reykjavik, Iceland.
+Hsieh, S.-K. (2014, may). *Why Chinese Web-as-Corpus is Wacky? Or: How Big Data is Killing Chinese Corpus Linguistics*. Paper presented at the Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC?14), Reykjavik, Iceland.
 
 ### 6. Special Thanks
 
