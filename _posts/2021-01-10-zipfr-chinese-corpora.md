@@ -288,7 +288,7 @@ head(ptt.vgc)
 type，而在其中有 `221` 個單詞只出現過一次。
 
 將資料畫成圖表：
-```
+```r
 par(mfrow=c(2,2))
 plot(asbc.vgc, add.m=1, main="ASBC",
         xlab="N", ylab="V(N)/V1(N)")
