@@ -379,6 +379,8 @@ legend("topleft", legend = c("observed", "fZM model"),
 
 上方的紅色曲線代表透過 fZM model 所產生的 expected value。
 
+&nbsp;
+
 ### 3. Lexical Coverage Estimation
 
 #### 3.1 Out-Of-Vocabulary (OOV) types
@@ -446,6 +448,8 @@ dcard100k.fzm <- lnre("fzm", dcard100k.spc)
 從上方得到的數值可以發現，ASBC 和 Brown corpus 的 OOV ratio 較 PTT 和
 Dcard 來得穩定且比例也較低。
 
+&nbsp;
+
 ### 4. 結論
 
 利用 `zipfR` 並採用 LNRE model 對資料進行分析，取得語料的 `VGC` 和
@@ -466,6 +470,8 @@ Web-as-Corpus，其前處理通常採用機器自動斷詞，龐大的 OOV
 可能來自於斷詞錯誤。這說明了在建造中文 Web-as-Corpus
 時，斷詞問題是很重要的考量之一。
 
+&nbsp;
+
 ### 5. References
 
 Baayen, R. H. (2002). *Word frequency distributions* (Vol. 18). Springer Science & Business Media.
@@ -475,6 +481,8 @@ Evert S, Baroni M (2007). “*zipfR*: Word Frequency Distributions in R.” In *
 Kilgarriff, A., & Grefenstette, G. (2003). Introduction to the special issue on the web as corpus. *Computational linguistics*, 29(3), 333-347.
 
 Hsieh, S.-K. (2014, may). *Why Chinese Web-as-Corpus is Wacky? Or: How Big Data is Killing Chinese Corpus Linguistics*. Paper presented at the Proceedings of the Ninth International Conference on Language Resources and Evaluation (LREC?14), Reykjavik, Iceland.
+
+&nbsp;
 
 ### 6. Special Thanks
 
