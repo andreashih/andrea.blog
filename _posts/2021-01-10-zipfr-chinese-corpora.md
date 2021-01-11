@@ -490,5 +490,5 @@ Hsieh, S.-K. (2014, may). *Why Chinese Web-as-Corpus is Wacky? Or: How Big Data 
 2020](https://github.com/lopentu/Hands-on_Corpus_Linguistics) 提供的
 corpus data。
 
-Click here for poster version (made with
+Click [here](https://drive.google.com/file/d/1yDQhGMLhrKpON63fhBcugxSY5xTqtXTn/view?usp=sharing) for poster version (made with
 [posterdown](https://github.com/brentthorne/posterdown))
