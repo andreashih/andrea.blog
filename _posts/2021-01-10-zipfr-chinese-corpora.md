@@ -135,11 +135,8 @@ spectrum**，其中 `m` 代表出現次數，`Vm` 代表出現該次數的單詞
 ### 2. Lexical Richness
 ```r
 # 載入套件
-library(zipfR)
 library(readr)
-library(dplyr)
-library(ggplot2)
-library(gridExtra)
+library(zipfR)
 ```
 
 首先，將平衡語料庫 (ASBC)、PTT 和 Dcard 語料匯入並整理。PTT 語料來自
