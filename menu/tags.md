@@ -25,3 +25,4 @@ title: Tags
     {% endfor %}
   </div>
 </div>
+<link rel="stylesheet" href="/assets/css/main.css">
