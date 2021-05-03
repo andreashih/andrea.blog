@@ -3,7 +3,7 @@ layout: post
 title: "筆記 | 一點小更新: Tag Page & RSS"
 author: "Andrea Shih"
 categories: journal
-tags: [note]
+tags: [notes]
 image: table.jpg
 ---
 
