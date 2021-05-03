@@ -2,15 +2,23 @@
 layout: default
 ---
 
-<h1>
-  {{ page.title }}
-</h1>
-
-{% if page.image %}
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {% if page.tags %}
+    {% for tag in page.tags %}
+    <a href="{{ site.baseurl }}{{ site.tag_page }}#{{ tag | slugify }}" class="post-tag">
+        {{ tag }} 
+    </a>
+    {% endfor %}
+  {% endif %}
+  <br/><br/>
+  {% if page.image %}
   <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
 {% endif %}
-
-{{ content }}
+  <br/><br/>
+  {{ content }}
+</div>
 
 <span class="post-date">
   {{ site.data.settings.post_date_prefix }}

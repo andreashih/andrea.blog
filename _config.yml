@@ -20,7 +20,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'The Andrea Journal'
+title:               'The Andrea Journal'
 description:         'Think, write, and think.'
 author:              'Andrea Shih'
 

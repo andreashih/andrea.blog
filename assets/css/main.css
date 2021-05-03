@@ -505,3 +505,25 @@ th, td {
 .fa-rss-square:hover {
 	color: #ff6600;
 }
+
+.post-tag {
+  display: inline-block;
+  background: #EB7A77;
+  padding: 0 .5rem;
+  margin-right: .5rem;
+  border-radius: 4px;
+  color: #ffffff;
+  font-family: $font-sans;
+  font-size: 90%;
+  &:before {
+    content: "\f02b";
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    padding-right: .5em;
+  }
+  &:hover {
+    text-decoration: none;
+    background: #EB7A77;
+    color: $white;
+  }
+  @include transition(all .1s ease-in-out);
+}
