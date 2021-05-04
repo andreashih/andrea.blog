@@ -7,7 +7,7 @@ tags: [notes]
 image: table.jpg
 ---
 
-今天 (~~因為不想寫計算語言學作業~~) 更新了 blog 的 [tag page](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [RSS](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
+今天~~因為不想寫計算語言學作業~~更新了 blog 的 [tag page](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [RSS](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
 
 &nbsp;
 
@@ -27,7 +27,7 @@ image: table.jpg
 
 > **要怎麼開始呢？**
 
-很多 blog 的頁面上都找得到 RSS 的 icon (長得很像 wifi 圖示)，點進去之後會出現一堆亂七八糟的文字，請不要害怕，複製最上方的網址就對了。如果沒有 RSS 圖示的話，按右鍵然後點選 View page source 通常也找得到，只是要 ctrl+F 搜一下 RSS 網址在哪裡。
+很多 blog 的頁面上都找得到 RSS 的 icon (長得很像 wifi 圖示)，點進去之後會出現一堆亂七八糟的文字，請不要害怕，複製最上方的網址就對了。如果沒有 RSS 圖示的話，在頁面上按右鍵再點選 View page source 通常也找得到，只是要 ctrl+F 搜一下 RSS 網址在哪裡。
 
 > **連結複製好了，然後呢？**
 
@@ -35,7 +35,7 @@ image: table.jpg
 
 &nbsp;
 
-以上就是這次 blog 的小更新，也歡迎大家用 RSS 訂閱這個 blog！雖然我更新很慢，草稿資料夾躺了一堆 md files 最後都沒繼續寫 (慚愧) 最近想寫讀書心得，但願我有空......
+以上就是這次的小更新，也歡迎大家用 RSS 訂閱這個 blog！雖然我更新很慢，資料夾躺了一堆草稿最後都沒繼續寫 (慚愧) 最近想寫讀書心得，但願我有空......
 
 &nbsp;
 
