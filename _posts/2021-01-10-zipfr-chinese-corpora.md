@@ -3,7 +3,7 @@ layout: post
 title: "研究 | 透過 `zipfR` 探討 PTT 與 Dcard 語料斷詞問題"
 author: "Andrea Shih"
 categories: journal
-tags: [research]
+tags: [research, R]
 image: cards2.jpg
 ---
 這學期修了老闆的課──語料處理方法，認識了一個強大的 R 套件

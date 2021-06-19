@@ -3,7 +3,7 @@ layout: post
 title: "練習 | 用 `rvest` 爬 Mobile01 的 iPhone 板"
 author: "Andrea Shih"
 categories: journal
-tags: [practice]
+tags: [practice, R]
 image: iphone.jpg
 ---
 
