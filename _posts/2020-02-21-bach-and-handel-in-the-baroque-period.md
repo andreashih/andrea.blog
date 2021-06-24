@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "雜談 | Bach and Handel in the Baroque Period"
+title: "音樂 | Bach and Handel in the Baroque Period"
 author: "Andrea Shih"
 categories: journal
-tags: [blog, music]
+tags: [music]
 image: violin.jpg
 ---
 

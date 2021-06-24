@@ -3,7 +3,7 @@ layout: post
 title: "雜談 | How I Take Back My Instagram Account"
 author: "Andrea Shih"
 categories: journal
-tags: [blog]
+tags: [miscellaneous]
 image: ig.jpg
 ---
 
