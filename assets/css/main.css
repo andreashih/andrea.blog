@@ -44,7 +44,7 @@ h1 a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quattrocento Sans", sans-serif;
-  color: #333;
+  color: #D198C5FF;
 }
 
 a {
@@ -111,7 +111,7 @@ hr {
 .masthead-title a {
   font-size: 2rem;
   text-decoration: none;
-  color: #505050;
+  color: #D198C5FF;
 }
 
 .masthead-subtitle {
