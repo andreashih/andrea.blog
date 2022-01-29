@@ -7,7 +7,7 @@ tags: [notes]
 image: table.jpg
 ---
 
-今天~~因為不想寫計算語言學作業~~更新了 blog 的 [**<u>tag page<u>**](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [**<u>RSS<u>**](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
+今天~~因為不想寫計算語言學作業~~更新了 blog 的 [**<u>tag page</u>**](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [**RSS**](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
 
 &nbsp;
 
