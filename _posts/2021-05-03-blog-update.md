@@ -6,16 +6,23 @@ categories: journal
 tags: [notes]
 image: table.jpg
 ---
+*2022/01/29 更新*
 
-今天~~因為不想寫計算語言學作業~~更新了 blog 的 [**<u>tag page</u>**](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [**RSS**](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
+調顏色調上癮了XD還有整理一下 menu bar，把多餘的資訊拿掉，加一個 home 按鈕可以回到主頁。另外，為了版面乾淨，把 timeline 和 tag 兩頁中的文章標題底線拿掉了。
+
+*2021/09/06 更新*
+
+把 read time 和它的 icon 都拿掉了，因為現在的計算方式是英文的 token，我找不到怎麼改算中文的。blog 首頁的預覽 truncate 也減成 250 字。原本是 350，對於中文來說有點太長了。
+
+今天~~因為不想寫計算語言學作業~~更新了 blog 的 [**<u>tag page</u>**](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [**<u>RSS</u>**](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
 
 &nbsp;
 
 ### Tag Page
 ---
-隨著文章越來越多，分類就更顯重要。我用的這個 jekyll 模板本來就可以在各篇文章加入 tags，但是沒有一個獨立的 tag page，所以打算自己幫它加一個。我參考的是[**<u>這篇文章<u>**](https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/)的 code，只改了 css 讓按鈕變成我喜歡的顏色，顏色是在 [**<u>NIPPON COLORS<u>**](https://nipponcolors.com/) 挑的。
+隨著文章越來越多，分類就更顯重要。我用的這個 jekyll 模板本來就可以在各篇文章加入 tags，但是沒有一個獨立的 tag page，所以打算自己幫它加一個。我參考的是[**<u>這篇文章</u>**](https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/)的 code，只改了 css 讓按鈕變成我喜歡的顏色，顏色是在 [**<u>NIPPON COLORS</u>**](https://nipponcolors.com/) 挑的。
 
-原本在本機一切順利，但是 push 上去卻發現我的 tags 按鈕不能顯示顏色。後來找到[**<u>解決方法<u>**](https://stackoverflow.com/questions/49743535/jekyll-static-page-css-not-rendering)才終於成功！
+原本在本機一切順利，但是 push 上去卻發現我的 tags 按鈕不能顯示顏色。後來找到[**<u>解決方法</u>**](https://stackoverflow.com/questions/49743535/jekyll-static-page-css-not-rendering)才終於成功！
 
 &nbsp;
 
@@ -23,7 +30,7 @@ image: table.jpg
 ---
 其實我一直都知道這個模板可以用 RSS feed，但就是沒有把它打開，因為不知道可以幹嘛XD
 
-直到最近才發現 RSS 其實蠻好用的。[**<u>RSS<u>**](https://zh.wikipedia.org/wiki/RSS) 的全名是 Really Simple Syndication，可以讓你訂閱喜歡的 blog、podcast，甚至是 YouTube 頻道。當訂閱的網站有更新，就可以獲得通知。再也不用一個一個加到我的最愛，最後因為懶得點開看有沒有更新而遺忘他們的存在。
+直到最近才發現 RSS 其實蠻好用的。[**<u>RSS</u>**](https://zh.wikipedia.org/wiki/RSS) 的全名是 Really Simple Syndication，可以讓你訂閱喜歡的 blog、podcast，甚至是 YouTube 頻道。當訂閱的網站有更新，就可以獲得通知。再也不用一個一個加到我的最愛，最後因為懶得點開看有沒有更新而遺忘他們的存在。
 
 > **要怎麼開始呢？**
 
@@ -31,15 +38,11 @@ image: table.jpg
 
 > **連結複製好了，然後呢？**
 
-現在有許多管理 RSS 的平台，最多人使用的應該屬 [**<u>Feedly<u>**](https://feedly.com/)，操作簡單直覺，只要把複製好的網址貼上去就可以。除此之外還提供關鍵字搜尋以及群組功能，且在各作業系統都能使用。Mac 或 Linux 使用者可以試試 [**<u>Newsboat<u>**](https://newsboat.org/)，感覺也蠻方便的，但是 Windows 或 WSL 都不能用QQ
+現在有許多管理 RSS 的平台，最多人使用的應該屬 [**<u>Feedly</u>**](https://feedly.com/)，操作簡單直覺，只要把複製好的網址貼上去就可以。除此之外還提供關鍵字搜尋以及群組功能，且在各作業系統都能使用。Mac 或 Linux 使用者可以試試 [**<u>Newsboat</u>**](https://newsboat.org/)，感覺也蠻方便的，但是 Windows 或 WSL 都不能用QQ
 
 &nbsp;
 
-以上就是這次的小更新，也歡迎大家用 RSS 訂閱這個 blog！雖然我更新很慢，資料夾躺了一堆草稿最後都沒繼續寫 (慚愧) 最近想寫讀書心得，但願我有空......
-
-*2021/09/06 更新*
-
-把 read time 和它的 icon 都拿掉了，因為現在的計算方式是英文的 token，我找不到怎麼改算中文的。blog 首頁的預覽 truncate 也減成 250 字。原本是 350，對於中文來說有點太長了。
+以上就是這次的小更新，也歡迎大家用 RSS 訂閱這個 blog！
 
 Photo by <a href="https://unsplash.com/@krisatomic?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Kris Atomic</a> on <a href="https://unsplash.com/s/photos/cafe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
