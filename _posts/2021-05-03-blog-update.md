@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "筆記 | 一點小更新: Tag Page & RSS"
+title: "筆記 | 部落格的小更新：Tag Page, RSS, CSS..."
 author: "Andrea Shih"
 categories: journal
 tags: [notes]
@@ -8,7 +8,7 @@ image: table.jpg
 ---
 *2022/01/29 更新*
 
-調顏色調上癮了XD還有整理一下 menu bar，把多餘的資訊拿掉，加一個 home 按鈕可以回到主頁。另外，為了版面乾淨，把 timeline 和 tag 兩頁中的文章標題底線拿掉了。
+調色調上癮了XD應該可以發現頁面上多了一些顏色。整理了 menu bar，把多餘的資訊拿掉，加一個 home 按鈕可以回到主頁。另外，為了版面乾淨，把 timeline 和 tag 兩頁中的文章標題底線拿掉了。
 
 *2021/09/06 更新*
 

@@ -7,11 +7,9 @@ tags: [research, R]
 image: cards2.jpg
 ---
 這學期修了老闆的課──語料處理方法，認識了一個強大的 R 套件
-[`zipfR`](https://cran.r-project.org/web/packages/zipfR/index.html)
+[**<u>zipfR</u>**](https://cran.r-project.org/web/packages/zipfR/index.html)
 (Evert and Baroni 2007) 以及 LNRE model (Baayen
-2002)。這篇文章將參考老師的研究 (Hsieh 2014)，並依據 [The zipfR package
-for lexical statistics: A tutorial
-introduction](https://rdrr.io/cran/zipfR/f/inst/doc/zipfr-tutorial.pdf)
+2002)。這篇文章將參考老師的研究 (Hsieh 2014)，並依據 [**<u>The zipfR package for lexical statistics: A tutorial introduction</u>**](https://rdrr.io/cran/zipfR/f/inst/doc/zipfr-tutorial.pdf)
 (Baroni and Evert 2014) 所提供的方法，以 PTT 與 Dcard
 的語料進行中文斷詞問題的分析。
 
@@ -19,8 +17,7 @@ introduction](https://rdrr.io/cran/zipfR/f/inst/doc/zipfr-tutorial.pdf)
 
 ### 1. Introduction
 
-在使用 `zipfR` 之前，要先認識 [Zipf’s
-law](https://nlp.stanford.edu/IR-book/html/htmledition/zipfs-law-modeling-the-distribution-of-terms-1.html)
+在使用 `zipfR` 之前，要先認識 [**<u>Zipf’s law</u>**](https://nlp.stanford.edu/IR-book/html/htmledition/zipfs-law-modeling-the-distribution-of-terms-1.html)
 (Zipf
 1949)。簡單說明，即是在自然語言的語料庫中，一個單詞出現的頻率越高，在頻率表裡的排名越前面。且第一名的單詞出現的頻率大約是第二名單詞的兩倍、第三名單詞的三倍，以此類推。
 
@@ -483,9 +480,8 @@ Hsieh, S.-K. (2014, may). *Why Chinese Web-as-Corpus is Wacky? Or: How Big Data 
 
 ### 6. Special Thanks
 
-謝謝 Jessy 和 Yongfu 在 [HOCOR
-2020](https://github.com/lopentu/Hands-on_Corpus_Linguistics) 提供的
+謝謝 Jessy 和 Yongfu 在 [**<u>HOCOR 2020</u>**](https://github.com/lopentu/Hands-on_Corpus_Linguistics) 提供的
 corpus data。
 
-Click [here](https://drive.google.com/file/d/1yDQhGMLhrKpON63fhBcugxSY5xTqtXTn/view?usp=sharing) for poster version (made with
-[posterdown](https://github.com/brentthorne/posterdown))
+Click [**<u>here</u>**](https://drive.google.com/file/d/1yDQhGMLhrKpON63fhBcugxSY5xTqtXTn/view?usp=sharing) for poster version (made with
+[**<u>posterdown</u>**](https://github.com/brentthorne/posterdown))

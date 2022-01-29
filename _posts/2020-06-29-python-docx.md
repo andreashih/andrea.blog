@@ -7,7 +7,7 @@ tags: [practice, python]
 image: books3.jpg
 ---
 
-這學期 (108-2) 修大學部的 python 課程，在期末用 [`python-docx`](https://python-docx.readthedocs.io/en/latest/) 搭配 python 內建函式庫做了一個[迷你專案](https://github.com/andreashih/docx-search-manipulation)。
+這學期 (108-2) 修大學部的 python 課程，在期末用 [**<u>python-docx</u>**](https://python-docx.readthedocs.io/en/latest/) 搭配 python 內建函式庫做了一個[**<u>迷你專案</u>**](https://github.com/andreashih/docx-search-manipulation)。
 
 最初的想法如下圖：
 
@@ -119,13 +119,13 @@ while mode not in ['move','copy', 'delete']:
 
 ### 參考資料
 ---
-[Search all docx files with python-docx in a directory (batch)](https://stackoverflow.com/questions/42682648/search-all-docx-files-with-python-docx-in-a-directory-batch)
+[**<u>Search all docx files with python-docx in a directory (batch)</u>**](https://stackoverflow.com/questions/42682648/search-all-docx-files-with-python-docx-in-a-directory-batch)
 
-[Searching docx Files in python](https://stackoverflow.com/questions/22819948/searching-docx-files-in-python)
+[**<u>Searching docx Files in python</u>**](https://stackoverflow.com/questions/22819948/searching-docx-files-in-python)
 
-[How to use regular expressions with python docx?](https://stackoverflow.com/questions/60682266/how-to-use-regular-expressions-with-python-docx)
+[**<u>How to use regular expressions with python docx?</u>**](https://stackoverflow.com/questions/60682266/how-to-use-regular-expressions-with-python-docx)
 
-[How to Create, Move, and Delete Files in Python](https://stackabuse.com/how-to-create-move-and-delete-files-in-python/)
+[**<u>How to Create, Move, and Delete Files in Python</u>**](https://stackabuse.com/how-to-create-move-and-delete-files-in-python/)
 
 &nbsp;
 
