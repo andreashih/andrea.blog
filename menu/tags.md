@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+#title: Tags
 ---
 <div class="tags-expo">
   <div class="tags-expo-list">
