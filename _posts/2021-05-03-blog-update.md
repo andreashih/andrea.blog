@@ -14,17 +14,17 @@ image: table.jpg
 
 把 read time 和它的 icon 都拿掉了，因為現在的計算方式是英文的 token，我找不到怎麼改算中文的。blog 首頁的預覽 truncate 也減成 250 字。原本是 350，對於中文來說有點太長了。
 
-今天~~因為不想寫計算語言學作業~~更新了 blog 的 [**<u>tag page</u>**](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [**<u>RSS</u>**](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
+--- 
 
 &nbsp;
+
+今天~~因為不想寫計算語言學作業~~更新了 blog 的 [**<u>tag page</u>**](https://andreashih.github.io/blog/menu/tags.html)，還有打開 [**<u>RSS</u>**](https://andreashih.github.io/blog/rss-feed.xml)，在此做些紀錄。
 
 ### Tag Page
 ---
 隨著文章越來越多，分類就更顯重要。我用的這個 jekyll 模板本來就可以在各篇文章加入 tags，但是沒有一個獨立的 tag page，所以打算自己幫它加一個。我參考的是[**<u>這篇文章</u>**](https://nk910216.github.io/2017/08/11/UsingTagsForJekyll/)的 code，只改了 css 讓按鈕變成我喜歡的顏色，顏色是在 [**<u>NIPPON COLORS</u>**](https://nipponcolors.com/) 挑的。
 
 原本在本機一切順利，但是 push 上去卻發現我的 tags 按鈕不能顯示顏色。後來找到[**<u>解決方法</u>**](https://stackoverflow.com/questions/49743535/jekyll-static-page-css-not-rendering)才終於成功！
-
-&nbsp;
 
 ### RSS Feed
 ---
