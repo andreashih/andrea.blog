@@ -508,11 +508,12 @@ th, td {
 
 .post-tag {
   display: inline-block;
-  background: #EA738DFF;
+  background: #D198C5FF;
   padding: 0 .5rem;
   margin-right: .5rem;
   border-radius: 4px;
   color: #ffffff;
+  text-decoration: none;
   font-family: $font-sans;
   font-size: 90%;
   &:before {
@@ -522,7 +523,7 @@ th, td {
   }
   &:hover {
     text-decoration: none;
-    background: #EA738DFF;
+    background: #D198C5FF;
     color: $white;
   }
   @include transition(all .1s ease-in-out);
