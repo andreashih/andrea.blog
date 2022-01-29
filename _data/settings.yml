@@ -8,7 +8,7 @@ google-ID: ''
 
 menu:
 # - {name: 'About', path: 'menu', url: 'about.html'}
-- {name: 'home', link: 'https://andreashih.github.io/'}
+- {name: 'home', path: '', url: 'index.html'}
 - {name: 'timeline', path: 'menu', url: 'writing.html'}
 - {name: 'tags', path: 'menu', url: 'tags.html'}
 # - {name: 'Contact', path: 'menu', url: 'contact.html'}
