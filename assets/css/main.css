@@ -508,7 +508,7 @@ th, td {
 
 .post-tag {
   display: inline-block;
-  background: #876D5A;
+  background: #EA738DFF;
   padding: 0 .5rem;
   margin-right: .5rem;
   border-radius: 4px;
@@ -522,7 +522,7 @@ th, td {
   }
   &:hover {
     text-decoration: none;
-    background: #876D5A;
+    background: #EA738DFF;
     color: $white;
   }
   @include transition(all .1s ease-in-out);
