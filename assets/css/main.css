@@ -528,18 +528,3 @@ th, td {
   }
   @include transition(all .1s ease-in-out);
 }
-
-hr {
-  height: 1px;
-  margin: 2em 1em 4em 0;
-  text-align: center;
-  border-color: #777;
-  border-width: 0;
-  border-style: dotted;
-}
-
-
-.article hr:after {
-  content: "···";
-  letter-spacing: 2em;
-}
