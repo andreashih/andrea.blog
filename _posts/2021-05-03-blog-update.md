@@ -38,7 +38,7 @@ image: table.jpg
 
 > **連結複製好了，然後呢？**
 
-現在有許多管理 RSS 的平台，最多人使用的應該屬 [**<u>Feedly</u>**](https://feedly.com/)，操作簡單直覺，只要把複製好的網址貼上去就可以。除此之外還提供關鍵字搜尋以及群組功能，且在各作業系統都能使用。Mac 或 Linux 使用者可以試試 [**<u>Newsboat</u>**](https://newsboat.org/)，感覺也蠻方便的，但是 Windows 或 WSL 都不能用QQ
+現在有許多管理 RSS 的平台，最多人使用的應該屬 [**<u>Feedly</u>**](https://feedly.com/)，直接將 RSS feed 複製貼上即可，但免費版有資料夾數量限制。Mac 用戶推薦使用 [**<u>Vienna</u>**](https://www.vienna-rss.com/)，介面簡潔好用，資料夾數量沒有限制。
 
 &nbsp;
 
