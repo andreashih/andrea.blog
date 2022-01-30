@@ -14,7 +14,7 @@ image: table.jpg
 
 把 read time 和它的 icon 都拿掉了，因為現在的計算方式是英文的 token，我找不到怎麼改算中文的。blog 首頁的預覽 truncate 也減成 250 字。原本是 350，對於中文來說有點太長了。
 
-...
+***
 
 &nbsp;
 
