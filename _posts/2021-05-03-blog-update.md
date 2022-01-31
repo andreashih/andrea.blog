@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "筆記 | 部落格的小更新：Tag Page, RSS, CSS..."
+title: "部落格的小更新：Tag Page, RSS, CSS..."
 author: "Andrea Shih"
 categories: journal
 tags: [notes]

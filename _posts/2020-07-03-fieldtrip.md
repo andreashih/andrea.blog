@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "研究 | 霧台魯凱語田野調查"
+title: "霧台魯凱語田野調查"
 author: "Andrea Shih"
 categories: journal
 tags: [research]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "練習 | .DOCX Files Search and Manipulation"
+title: "`DOCX` Files Search and Manipulation"
 author: "Andrea Shih"
 categories: journal
 tags: [practice, python]

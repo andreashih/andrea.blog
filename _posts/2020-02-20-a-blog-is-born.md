@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "筆記 | A Blog is Born: 一個部落格的誕生"
+title: "A Blog is Born: 一個部落格的誕生"
 author: "Andrea Shih"
 categories: journal
 tags: [notes]
