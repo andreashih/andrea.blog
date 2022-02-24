@@ -45,7 +45,7 @@ image: macbook.jpg
 
 
 ### 滑鼠
-連接 USB 滑鼠時，有時候一接上就可以使用，有時候卻要等待 5~10 分鐘才能連上，目前還沒找到原因。如果一直接不上，可以試著縮短滑鼠和 USB 接收器的距離，或重新連接 hub 檢查是否接觸不良。接上後會發現滑鼠滾動方式有點違反直覺，此時可以調整方向（[**<u>方法 1</u>**](https://ingtt.com/3504/macos-mouse-scroll-natural/)），但這方法會同時更改到觸控板的滑動方向。如果想將觸控板和滑鼠分開調整，可以參考[**<u>方法 2</u>**](https://clay-atlas.com/blog/2021/07/06/mac-os-cn-scroll-reverser-trackpad-mouse/)。
+連接 USB 滑鼠時，有時候一接上就可以使用，有時候卻要等待 5~10 分鐘才能連上，目前還沒找到原因。如果一直接不上，可以試著縮短滑鼠和 USB 接收器的距離，或重新連接 hub。接上後會發現滑鼠滾動方式有點違反直覺，此時可以調整方向（[**<u>方法 1</u>**](https://ingtt.com/3504/macos-mouse-scroll-natural/)），但這方法會同時更改到觸控板的滑動方向。如果想將觸控板和滑鼠分開調整，可以參考[**<u>方法 2</u>**](https://clay-atlas.com/blog/2021/07/06/mac-os-cn-scroll-reverser-trackpad-mouse/)。
 
 &nbsp;
 
