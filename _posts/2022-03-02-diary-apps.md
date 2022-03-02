@@ -16,6 +16,6 @@ image: meditation.jpg
 
 Daylio 是一個可以隨時記錄心情的 app，有很多可愛的表情可以自由新增，顏色也可以自由更換（當然免費版的選擇會比較少）。
 
-![](https://github.com/andreashih/img/blob/master/rmd_posts/diary_apps/daylio-1.gif)
+![](https://github.com/andreashih/img/rmd_posts/diary_apps/daylio-1.gif)
 
 只要隨手點一點就可以記錄當下的心情，一天當中可以記錄很多次，還可以選擇你現在正在做的事情，幫助你了解做什麼事情會帶給你怎麼樣的心情（這些事件也是可以自由新增的）。
