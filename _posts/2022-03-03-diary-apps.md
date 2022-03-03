@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "三款實用日記 Apps 分享"
+title: "三款實用日記 Apps - Daylio、Five Minute Journal、Day One"
 author: "Andrea Shih"
 categories: journal
 tags: [miscellaneous]
