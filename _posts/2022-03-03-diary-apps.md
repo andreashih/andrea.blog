@@ -13,7 +13,9 @@ image: journals.jpg
 ---
 ✅ 支援中文版  
 ✅ 可備份  
+❎ 不可加密碼 (需升級到 premium)  
 ✅ 有 premium 版
+
 
 Daylio 主打心情紀錄，不用書寫文字。除了預設之外還有很多可愛的表情可以新增，顏色也可以自由更換（當然免費版的選擇會比較少）。隨手點一點就可以記錄當下的心情，一天當中可以記錄很多次，還可以選擇現在正在做的事情，幫助我們了解做什麼事情會帶來怎麼樣的心情（例如：去跑步->覺得開心、煮飯->覺得平靜）。
 
@@ -45,6 +47,7 @@ Daylio 還有很棒的功能：週報和月報，可以了解一段期間內的�
 ---
 ❎ 無中文版  
 ✅ 可備份  
+✅ 可加密碼 (或 touch/face ID)  
 ✅ 有 premium 版
 
 Five Minute Journal 介面超文青超有質感，是適合一早起床就使用的 app。點開後會看到一句正能量小語，接著會出現三個問題：
@@ -78,9 +81,10 @@ Five Minute Journal 也有類似 Daylio 的心情記錄功能，還可以在日�
 ---
 ✅ 支援中文版  
 ✅ 可備份  
+✅ 可加密碼 (或 touch/face ID)  
 ✅ 有 premium 版
 
-Day One 是一個老牌日記 app，介面很簡潔，版面顏色可以自己選擇，還可以加上密碼（或 touch/face ID）。乍看有點像 ios 內建的備忘錄，也有加 tag 分類的功能。可以將日記匯出成 pdf、plain text 或 markdown 等不同格式，還可以分享連結。除了文字外也可以加上地點、天氣和照片，但免費版只能放一張。Premium 版可以放影片和錄音，支援手寫，還可以與 instagram 連動。還有一個很酷的功能：在 app 上編輯日記封面，幫你印成一本書，不過這是需要額外付費的。
+Day One 是一個老牌日記 app，介面很簡潔，版面顏色可以自己選擇。乍看有點像 ios 內建的備忘錄，也有加 tag 分類的功能。可以將日記匯出成 pdf、plain text 或 markdown 等不同格式，還可以分享連結。除了文字外也可以加上地點、天氣和照片，但免費版只能放一張。Premium 版可以放影片和錄音，支援手寫，還可以與 instagram 連動。還有一個很酷的功能：在 app 上編輯日記封面，幫你印成一本書，不過這是需要額外付費的。
 
 <p align = "center">
 <img src = "https://andreashih.github.io/img/rmd_posts/diary_apps/day-one.jpg" border="1" width="300" height="400">
