@@ -23,7 +23,7 @@ Daylio 主打心情紀錄，不用書寫文字。除了預設之外還有很多�
 <img src = "https://andreashih.github.io/img/rmd_posts/diary_apps/daylio-1.gif" width="220" height="390">
 </p>
 
-Daylio 還有很棒的功能：週報和月報，可以了解一段期間內的心情變化，還會計算情緒分數和繪製心情折線圖。
+Daylio 還有很棒的功能：週報和月報，可以了解一段期間內的心情變化，還會計算情緒分數和繪製心情折線圖。資料可以匯出成 csv 格式。
 
 <p align = "center">
 <img src = "https://andreashih.github.io/img/rmd_posts/diary_apps/daylio-2.gif" width="220" height="390">
