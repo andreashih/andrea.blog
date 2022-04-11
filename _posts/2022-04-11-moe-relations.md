@@ -9,13 +9,13 @@ image: book-shadow.jpg
 
 ### 關於萌典
 ---
-萌典是一部由臺灣開源社群 [g0v 零時政府](https://github.com/g0v)開發的數位化漢語詞典。國語資料來源為《教育部重編國語辭典修訂本》，閩南語資料來自《臺灣閩南語常用詞辭典》，客家語資料則源自《臺灣客家語常用詞辭典》。除此之外，該計畫近日也新增了[阿美語萌典](https://amis.moedict.tw/)。
-- [網站](https://www.moedict.tw)
-- [GitHub](https://github.com/g0v/moedict-webkit)
+萌典是一部由臺灣開源社群 [**<u>g0v 零時政府</u>**](https://github.com/g0v)開發的數位化漢語詞典。國語資料來源為《教育部重編國語辭典修訂本》，閩南語資料來自《臺灣閩南語常用詞辭典》，客家語資料則源自《臺灣客家語常用詞辭典》。除此之外，該計畫近日也新增了[**<u>阿美語萌典</u>**](https://amis.moedict.tw/)。
+- [**<u>網站</u>**](https://www.moedict.tw)
+- [**<u>GitHub</u>**](https://github.com/g0v/moedict-webkit)
 
 &nbsp;
 
-### 方法一： `BeautifulSoup`
+### 方法一： BeautifulSoup
 ---
 
 ```python
@@ -64,7 +64,7 @@ moe_relations
 
 &nbsp;
 
-### 方法二： `urllib`
+### 方法二： urllib
 ---
 
 ```python
@@ -126,7 +126,7 @@ moe_relations
 
 ### 結論
 ---
-相較於以語意關係為主軸建置的[中文詞彙網路](https://lopentu.github.io/CwnWeb/)，萌典的語意關係資料較少，僅部分詞條具有同義及反義詞，且並未區分同義和近義。但萌點收錄的詞條較為完整，還有讀音、部首、筆劃等資訊，可以用於不同研究主題。
+相較於以語意關係為主軸建置的[**<u>中文詞彙網路</u>**](https://lopentu.github.io/CwnWeb/)，萌典的語意關係資料較少，僅部分詞條具有同義及反義詞，且並未區分同義和近義。但萌點收錄的詞條較為完整，還有讀音、部首、筆劃等資訊，可以用於不同研究主題。
 
 &nbsp;
 
