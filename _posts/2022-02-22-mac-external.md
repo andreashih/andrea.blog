@@ -21,7 +21,7 @@ image: macbook.jpg
     - 挑了好久才找到有 HDMI 又有兩個 USB 孔的 hub，可以同時接螢幕、鍵盤、滑鼠。但要特別注意它的 USB 孔分別是 2.0 和 3.0。
 - [**<u>Esense 3700 復古圓鍵標準鍵盤</u>**](https://shopee.tw/%E3%80%90%E7%8F%BE%E8%B2%A8%E7%86%B1%E9%8A%B7%E3%80%91Esense-%E9%80%B8%E7%9B%9B-3700-%E5%BE%A9%E5%8F%A4%E5%9C%93%E5%BD%A2%E6%A8%99%E6%BA%96%E9%8D%B5%E7%9B%A4-%E7%99%BD%E8%89%B2-%E7%B6%A0%E8%89%B2-%E9%98%B2%E6%92%A5%E6%B0%B4-%E8%B6%85%E9%9D%9C%E9%9F%B3-USB-%E9%9A%A8%E6%8F%92%E5%8D%B3%E7%94%A8-i.8855246.12271337734) - $209
     - 白色剛好搭配原有的滑鼠，而且是圓鍵！雖然圓鍵沒有方鍵好打，可是很漂亮！好像在用打字機寫論文！（三項產品中最膚淺的原因XD）鍵盤上的字體印刷有點粗糙，不過看在價格的份上可以接受。
-- 羅技無線滑鼠（規格不可考，2015 年購買 ASUS 筆電附贈）
+- ~~羅技無線滑鼠（規格不可考，2015 年購買 ASUS 筆電附贈~~ 2022.03 更新：滑鼠還是不敵歲月宣告不治，買了很夯的 [M350](https://store.logitech.tw/SalePage/Index/5624316?lang=zh-TW&currency=TWD&gclid=CjwKCAjwo8-SBhAlEiwAopc9W2c91eJi45DRKUF-sVAi3ovdNSV4OQmUyxHb1VNITcTRjxCBhjlY1BoCClIQAvD_BwE) 取而代之。藍芽解決了 USB 的各種麻煩，目前順暢服役中。
 
 這次很幸運的碰到過年檔期電商折價，努力將金額壓到了 $5,000 以下。
 
