@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "How I Take Back My Instagram Account"
+title: "How I Took Back My Instagram Account"
 author: "Andrea Shih"
 categories: journal
 tags: [miscellaneous]
 image: ig.jpg
 ---
 
-I am writing this post not because I was hacked or accidentally forgot the password to the dazzling world of social media. Actually, I have my account logged in readily. All I have to do is to pick up my phone and click on the pink bright little icon right on the home screen. Instagram takes you to places you've been long to, gives you access to peak lives of others (whether familiar or unfamiliar), and offers you tons of dopamine that keep you excited. Though it seems no problem with instagram participating in my leisure time, the hidden risk has gradually dominated my daily life. Now I am going to share with you how I am aware of the impact of insta and how I finally *take back* my insta account.
+I am writing this post not because I was hacked or accidentally forgot the password to the dazzling world of social media. Actually, I have my account logged in readily. All I have to do is to pick up my phone and click on the pink bright little icon right on the home screen. Instagram takes you to places you've been long to, gives you access to peak lives of others (whether familiar or unfamiliar), and offers you tons of dopamine that keep you excited. Though it seems no problem with instagram participating in my leisure time, the hidden risk has gradually dominated my daily life. Now I am going to share with you how I was aware of the impact of insta and how I finally *took back* my insta account.
 
 &nbsp;
 
