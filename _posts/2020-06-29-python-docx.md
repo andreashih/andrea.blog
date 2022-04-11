@@ -3,7 +3,7 @@ layout: post
 title: "`DOCX` Files Search and Manipulation"
 author: "Andrea Shih"
 categories: journal
-tags: [practice, python]
+tags: [python]
 image: books3.jpg
 ---
 
