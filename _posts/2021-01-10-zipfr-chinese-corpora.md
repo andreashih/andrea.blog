@@ -3,7 +3,7 @@ layout: post
 title: "PTT 與 Dcard 語料斷詞問題探討"
 author: "Andrea Shih"
 categories: journal
-tags: [research, R]
+tags: [R]
 image: cards2.jpg
 ---
 這學期修了老闆的課──語料處理方法，認識了一個強大的 R 套件
