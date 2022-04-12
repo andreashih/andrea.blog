@@ -59,7 +59,7 @@ moe_relations = {'synonyms': syns, 'antonyms': ants}
 ```python
 moe_relations
 
-## {'synonyms': ['忍耐'], 'antonyms': ['發作', '拒絕', '生氣']}
+## {'antonyms': ['發作', '拒絕', '生氣'], 'synonyms': ['忍耐']}
 ```
 
 &nbsp;
@@ -119,7 +119,7 @@ moe_relations = {'synonyms': syns, 'antonyms': ants}
 ```python
 moe_relations
 
-## {'synonyms': ['忍耐'], 'antonyms': ['發作', '拒絕', '生氣']}
+## {'antonyms': ['發作', '拒絕', '生氣'], 'synonyms': ['忍耐']}
 ```
 
 &nbsp;
