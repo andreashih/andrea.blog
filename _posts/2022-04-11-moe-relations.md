@@ -42,12 +42,12 @@ span_syn = soup.select('span.synonyms')
 span_ant = soup.select('span.antonyms')
 
 if span_syn:
-  syn = soup.select('span.synonyms')[0].get_text()
+  syn = span_syn[0].get_text()
   syns = syn[1:].split('、')
 else: syns = []
 
 if span_ant:
-  ant = soup.select('span.antonyms')[0].get_text()
+  ant = span_ant[0].get_text()
   ants = ant[1:].split('、')
 else: ants = []
 
@@ -127,6 +127,8 @@ moe_relations
 ### 結論
 ---
 相較於以語意關係為主軸建置的[**<u>中文詞彙網路</u>**](https://lopentu.github.io/CwnWeb/)，萌典的語意關係資料較少，僅部分詞條具有同義及反義詞，且並未區分同義和近義。但萌點收錄的詞條較為完整，還有讀音、部首、筆劃等資訊，可以用於不同研究主題。
+
+👩‍💻 本文程式碼[***<u>連結</u>***]([**<u>中文詞彙網路</u>**])
 
 &nbsp;
 
