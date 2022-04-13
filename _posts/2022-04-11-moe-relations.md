@@ -34,7 +34,7 @@ print(res)
 ## <Response [200]>
 ```
 
-確認請求成功後，回到網頁，使用快捷鍵 `Option+Command+U`（WindowsL `Ctrl + U`，或是右鍵 -> View Page Source），從網頁原始碼中可以看到同義詞和反義詞藏在 \<span> tag 裡面。
+確認請求成功後，回到網頁，使用快捷鍵 `Option+Command+U`（Windows: `Ctrl + U`，或是右鍵 -> View Page Source），從網頁原始碼中可以看到同義詞和反義詞藏在 \<span> tag 裡面。
 
 ```python
 soup = BeautifulSoup(res.text, 'lxml')
