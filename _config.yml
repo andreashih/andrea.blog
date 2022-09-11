@@ -28,5 +28,5 @@ author:              'Andrea Shih'
 feed:
 path: rss-feed.xml
 
-baseurl: /blog
+baseurl: /original-blog
 url: http://andreashih.github.io

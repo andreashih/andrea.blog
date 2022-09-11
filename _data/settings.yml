@@ -9,7 +9,7 @@ google-ID: ''
 menu:
 # - {name: 'About', path: 'menu', url: 'about.html'}
 # - {name: 'Contact', path: 'menu', url: 'contact.html'}
-- {name: 'home', path: '..', url: 'index.html'}
+- {name: 'home', path: '../original-profile', url: 'index.html'}
 - {name: 'posts', path: 'menu', url: 'writing.html'}
 - {name: 'tags', path: 'menu', url: 'tags.html'}
 
